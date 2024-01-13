@@ -6,4 +6,4 @@ port: 5000
 resourcelimits:
  cpurequest: "100m"
  memrequest: "64Mi"
- path: "/hello"
+path: "/hello"
