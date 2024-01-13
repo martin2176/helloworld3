@@ -4,6 +4,6 @@ version: <+artifacts.primary.tag>
 replicas: 1
 port: 5000
 resourcelimits:
- cpurequest: "100m"
+ cpurequest: "200m"
  memrequest: "64Mi"
 path: "/hello"
