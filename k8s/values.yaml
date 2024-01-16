@@ -1,9 +1,8 @@
-servicename: <+service.identifier>
-fullimagepath: <+artifacts.primary.image>
-version: <+artifacts.primary.tag>
+version: "version98"
 replicas: 1
 port: 5000
 resourcelimits:
- cpurequest: "100m"
+ cpurequest: "50m"
  memrequest: "64Mi"
 path: "/hello"
+createingress: false
