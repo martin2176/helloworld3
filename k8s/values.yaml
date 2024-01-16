@@ -1,4 +1,3 @@
-version: "version98"
 replicas: 1
 port: 5000
 resourcelimits:
