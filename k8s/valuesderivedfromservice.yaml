@@ -1,0 +1,3 @@
+servicename: <+service.identifier>
+fullimagepath: <+artifacts.primary.image>
+imagepath: <+artifacts.primary.imagePath>
