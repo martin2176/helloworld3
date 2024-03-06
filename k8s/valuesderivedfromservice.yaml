@@ -2,3 +2,5 @@ servicename: <+service.identifier>
 fullimagepath: <+artifacts.primary.image>
 imagepath: <+artifacts.primary.imagePath>
 version: <+artifacts.primary.tag>
+cpurequest: <+serviceVariables.requestscpu>
+memrequest: <+serviceVariables.requestsmemory>
